@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
       <h1>Home</h1>
-      <p>Here is front page.!</p>
+      <p>실전코딩 Weather-Service 과제</p>
     </div>
   );
 };

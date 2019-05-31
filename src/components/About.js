@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
       <h1>About</h1>
-      <p>Hello world!</p>
+      <p>실전코딩 18조</p>
     </div>
   );
 };
